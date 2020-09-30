@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "InterposeKit",
+        "repositoryURL": "https://github.com/steipete/InterposeKit.git",
+        "state": {
+          "branch": null,
+          "revision": "17853ad69961a5114e25c60c3ce7600feac0eabd",
+          "version": "0.0.2"
+        }
+      },
+      {
+        "package": "PSPDFKit",
+        "repositoryURL": "https://github.com/PSPDFKit/PSPDFKit-SP",
+        "state": {
+          "branch": null,
+          "revision": "f5e430da0017148c2455a8bdabc4856a8494334b",
+          "version": "10.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
