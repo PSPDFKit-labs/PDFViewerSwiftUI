@@ -374,7 +374,7 @@
 				CODE_SIGN_ENTITLEMENTS = PDFViewer/PDFViewer.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"PDFViewer/Preview Content\"";
-				DEVELOPMENT_TEAM = Y5PE65HELJ;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = PDFViewer/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -398,7 +398,7 @@
 				CODE_SIGN_ENTITLEMENTS = PDFViewer/PDFViewer.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"PDFViewer/Preview Content\"";
-				DEVELOPMENT_TEAM = Y5PE65HELJ;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = PDFViewer/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
