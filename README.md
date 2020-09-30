@@ -6,4 +6,4 @@ Requires Xcode 12 GM for iOS 14, recommended Xcode 12.2b2 or higher for macOS Bi
 
 ## License
 
-See [License.md](License.md)
+See [LICENSE.md](LICENSE.md)
